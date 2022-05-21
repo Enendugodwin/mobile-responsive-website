@@ -1,0 +1,27 @@
+.active {
+    display: block;
+}
+
+.room {
+    background-image: url(../src/img/Interior-Design-Ideas-Deconstructing-a-Unique-Master-Bedroom-Set-1.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.plant {
+    background-image: url(../src/img/v4_tf_interior_plants_01.jpg);
+    background-size: cover;
+}
+
+.greek {
+    background-image: url(../src/img/54dffe74fb37392d6e4c6b4e2de3c212.jpg);
+    background-size: contain;
+}
+.greek2 {
+    background-image: url(../src/img/istockphoto-610251218-612x612.jpg);
+    background-size: contain;
+}
+.greek3 {
+    background-image: url(../src/img/greek2.jpg);
+    background-size: cover;
+}
